@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letters from the great Turke lately sent vnto the holy father the pope and to Rodulphus naming himselfe King of Hungarie, and to all the kinges and princes of Christendome Translated out of the Hebrue tongue into Italian, and out of the Italian into French and now into English out of the French coppie.</title>
+            <author>Turkey. Sultan (1603-1617 : Ahmad I)</author>
+         </titleStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A10415</idno><idno type="EEBO-CITATION">99853167</idno>
+  <idno type="VID">18536</idno>
+  <idno type="EEBO-PROQUEST">2240887691</idno>
+  <idno type="STC">STC 207</idno>
+  <idno type="STC">ESTC S117958</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99853167e"/>
+            <note>(EEBO-TCP ; phase 2, no. A10415)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 18536)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 906:06)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Letters from the great Turke lately sent vnto the holy father the pope and to Rodulphus naming himselfe King of Hungarie, and to all the kinges and princes of Christendome Translated out of the Hebrue tongue into Italian, and out of the Italian into French and now into English out of the French coppie.</title>
+                  <author>Turkey. Sultan (1603-1617 : Ahmad I)</author>
+                  <author>Ahmed I, Sultan of the Turks, 1590-1617.</author>
+               </titleStmt>
+               <extent>[14] p.   </extent>
+               <publicationStmt>
+                  <publisher>By Iohn Windet, and are to be sold [by C. Burby] at the white Swan in Pauls-Church yard,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1606.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publisher's name from STC.</note>
+                  <note>The sultan's name is given on B3 recto as Annet Harioson.</note>
+                  <note>Signatures: [A]⁴ B³ (-A1).</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Holy Roman Empire. --  Emperor (1576-1612 : Rudolf II)</term>
+               <term type="corporate_name">Catholic Church. --  Pope (1605-1621 : Paul V)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:18536:1"/>
+            <pb facs="tcp:18536:1"/>
+            <p>LETTERS from the great Turke lately sent vnto the holy Father the Pope <hi>and to Rodulphus naming himselfe</hi> King of <hi>Hungarie,</hi> and to all the <hi>Kinges and Princes of Christendome.</hi>
+            </p>
+            <p>Translated out of the Hebrue tongue <hi>into Italian, and out of the Italian</hi> into French and now into English <hi>out of the French coppie.</hi>
+            </p>
+            <q>
+               <p>Maximus honor, maxima virtus.</p>
+            </q>
+            <p>Imprinted at London by <hi>Iohn Windet,</hi> and are to be sold at the white Swan in Pauls-Church yard. 1606.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:18536:2"/>
+            <p>Annet Harioson by the grace of the high God most wel beloued in heauen, dis<g ref="char:EOLhyphen"/>cended of the Line of the great Prophet Mahomet; Champion of Babilon, God on the earth, Barron of Turkie, Lord of the countrie of Iudea, euen vnto the earthly Paradise; Conqueror of Constan<g ref="char:EOLhyphen"/>tinople, and of Greece, Gouernour of the high and lower Seas, Commaunder of Hungarie and the future conqueror of Christendome. To the great Champion of Rome, and to his confederates the Princes of Christendome.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:18536:2"/>
+            <head>
+               <hi>THE LETTERS LAST</hi> sent by the great Turke vnto the holy <hi>Fa<g ref="char:EOLhyphen"/>ther the Pope, and to</hi> Rodolphus, naming himselfe King of Hun<g ref="char:EOLhyphen"/>garie, and to all Kings and Princes of <hi>Christendome.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">F</seg>Orasmuch as the great God of hea<g ref="char:EOLunhyphen"/>uen, who raiseth &amp; putteth downe Kinges, and causeth Monarchies most gloriously instituted and con<g ref="char:EOLunhyphen"/>firmed to indure at his pleasure, by the intercession and councell of the great <hi>Prophet Mahomet</hi> hath vouchsafed thorow his grace to exalt vs and our domi<g ref="char:EOLhyphen"/>nion aboue all Princes and principalities of the whole earth. Giuing vnto vs according vnto our valour, &amp; to our most strong and most florishing armie, mani<g ref="char:EOLhyphen"/>fest and triumphant victories against all the enemies of our triumphant monarchie, fauouring vs by all meanes both by Sea and Land that we onely might raigne and gouerne. And farther, seeing that the earth belongeth to him which can conquer it, as the scripture telleth vs. <hi>Caelum coeli Domino, terram autē dedit filiis hom num;</hi> And furthermore since the great Mahomet, from whome we and our predicessors are discended, by good and lawful warres with the victories of the great God which wee
+<pb facs="tcp:18536:3"/> haue atchiewed, wee haue surpassed, and subiected to our obedience almost all the earth as well continent as the Sea coastes, that is to say in few wordes. The wise <hi>Grecia,</hi> The warlike <hi>Macedonia,</hi> The diuine <hi>Iudea,</hi> rich <hi>Egypt,</hi> strong <hi>Tartaria,</hi> The puissant and most re<g ref="char:EOLhyphen"/>doubted <hi>Persia.</hi> Three and fiftie principalities with as many most rich and fertill Islandes, and to compre<g ref="char:EOLhyphen"/>hend thē in general tearmes, first al <hi>Asia,</hi> then <hi>Africa</hi> &amp; in a māner al yours, nay ours &amp; not your <hi>Europa,</hi> weaken<g ref="char:EOLunhyphen"/>ed with wars &amp; by vs possessed, &amp; now of late the coun<g ref="char:EOLunhyphen"/>trie and Cities of <hi>Hungarie,</hi> piercing into the countrie &amp; bowels of <hi>Austria,</hi> the patrimony &amp; inheritance of your Emperor: hoping to proceed euen vnto the end of your world towardes the west as well by Sea, as by Land, to the end wee may plant the authoritie of our most sa<g ref="char:EOLhyphen"/>cred and eternall Imperiall Maiestie, and Inuincible Monarchie.</p>
+            <p>Euen so to thee great <hi>Preest</hi> of <hi>Rome</hi> and to the Prin<g ref="char:EOLunhyphen"/>ces of thy lawe, and to those in league with thee, wee will, wee demaunde and commaund, that you sub<g ref="char:EOLhyphen"/>mit your selfe vnto our most sacred &amp; puissant Trium<g ref="char:EOLhyphen"/>phing Triumphant mightie Monarchie, and the same submission manifest by homages and by reuerent tri<g ref="char:EOLhyphen"/>butes as to your Lord, which you shall accomplish and offer duly and iustly vnto our Imperiall Maiestie, as in reason, ciuilly and lawfully appertaineth.</p>
+            <p>And forasmuch as great <hi>Mahomet</hi> in his diuine Alcoran, saith that no Emperor, how mightie soeuer, can tame, nor subdue the courage or conscience of men,
+<pb facs="tcp:18536:3"/> although he may subdue and conquer all nations and countries. Therefore it hath pleased vs: and of our perpetuall authoritie and deliberation it is graunted vnto you, to vse your owne faith and lawe, and your accustomed ceremonies, euen as you haue done heer<g ref="char:EOLhyphen"/>tofore, which liberalitie and permission wee haue ex<g ref="char:EOLhyphen"/>tended and giuen likewise to all Christians, and also to all others what religion or law soeuer they held liuing and inhabiting vnder our vniuersall Monarchie. For it is all one to vs what lawe or Religion the nations and people of the world vse and exercise, so that they bee obedient and subiect vnto vs. For thus our <hi>Prophet</hi> in his Alcoran witnesseth and saieth that it is pleasing vnto God, and wilbe singularlie adored and praised in diuers sorts of worldly religions of brute beasts and o<g ref="char:EOLhyphen"/>ther creatures, as saith our <hi>Prophet,</hi> and yours also in his psalme <hi>Laudate dominum de coelis &amp;.</hi> By meanes of which benefit, and graunt wee haue in short time subiugated, and brought to submission infinite nations and peoples; and hitherto almost the whole earth, and by the same meanes wee hope to be the onely Mo<g ref="char:EOLhyphen"/>narche of the whole earth before the expiration of two yeares, like as your owne Christians denying your law and imbracing a much better, haue diuined and prophesied to bee at Rome in the Chappell of Saint <hi>Basille.</hi>
+            </p>
+            <p>Therefore beeware that you commit not that to your most great destruction, your singular domage and horrible subiection, which you may turne to your con<g ref="char:EOLhyphen"/>seruation, great profit and acceptable liberty. But
+<pb facs="tcp:18536:4"/> open your gates Cities and townes vnto vs and to our deputies, &amp; gouernours that they may take your others; And if you shall heerein faile: we declare and denounce vnto you mortall warres, destructions, firing of Citties and townes and other places whatsoeuer; generall oc<g ref="char:EOLhyphen"/>cision and death both of olde and young, or else serui<g ref="char:EOLhyphen"/>tude and slauerie; In which manner we are accustomed when wee subdue the nations and prouinces of the earth to proceede.</p>
+            <p>And you shall doe wisely to take ensample of the great Souldan of <hi>Babilon,</hi> who with his great riches and power was not able to resist vs, but we spoiled him and his house of their royall dignitie and dominion and cast him out of his Countrie, and lastly pursued him euen vnto death; likewise the great <hi>Cham</hi> of <hi>Tartarie,</hi> &amp; al his friends and adherence were by vs subdued and all his subiects and Chaldeans, which now do serue and obey vs with great loyalty and affection.</p>
+         </div>
+         <div type="commentary">
+            <p>
+               <hi>Moreouer, most renouned and redoubted Rodolphus vnto all christians, which af<g ref="char:EOLhyphen"/>firme that they are beloued of the high God.</hi>
+            </p>
+         </div>
+         <div type="letter">
+            <p>By the declarations and reuelations of my priests and Sacrificers called <hi>Bramines</hi> in one of my most rich and famous Citties of the <hi>Indees,</hi> and that after a more strange manner admirable of one of my Gods of <hi>Apol<g ref="char:EOLhyphen"/>lo,</hi> iealous of the honour of the liuing God, which wee call <hi>Deumo</hi> whose picture by our permission is in ma<g ref="char:EOLhyphen"/>nie
+<pb facs="tcp:18536:4"/> houses and places. The <hi>Bramines,</hi> whose office is to encence and perfume and present our prayers vnto <hi>Deumo,</hi> report that he hath affirmed that there is but one God, one law, and one King, euen as our forefathers haue foretolde vs. Wherefore we are resolued so to doe and to send vnto you our gouernours, to the end you may receiue our law and Alcoran, and the same shalbe effected with one hundreth thousand men which wee haue already sent to Sea to destroy you, and all christi<g ref="char:EOLhyphen"/>ans, if so wonderfully you shall not make choise of our true religion ordained by our great Prophet <hi>Mahomet,</hi> except you yeeeld the tribute due vnto vs, as before we haue declared.</p>
+            <p>Denouncing vnto thee <hi>Rodolphus,</hi> which dost oc<g ref="char:EOLhyphen"/>cupie my kingdome of <hi>Hungary,</hi> all euill and mischiefe and the ruin of all thy countries, kingdomes and domi<g ref="char:EOLhyphen"/>nions, because that thou takest vpon thee the name and title of a king. We sweare vnto thee by our crowne, to visit thee sooner then thou thinkest for, &amp; to the end thou maiest the more assuredly knowe it, it shalbe with such an armie and force, that neither thou nor any of thy predicessors did euer behold the like. Wee doe already possesse the principal countries and Isles, which by our tyranny we oppresse &amp; the inhabitants thereof, and we shall heerafter see, if the God in whome thou beleeuest can helpe thee, or saue thee (we meaning to destroy thee and all that shall assist or aide thee) with our inuincible armie, to the vtter confusion of thee and all thine with the most cruell death and tortures that possible we may</p>
+            <pb facs="tcp:18536:5"/>
+            <closer>
+               <dateline>Giuen at Constantinople, from whence wee banished thy first fathers, hauing most cruelly slaine them with their wiues and Children, rauishing the women and widdowes for the accomplishing of our pleasure.
+<date>The 19. of our Natiuitie and the third of our Raigne.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <p>Wee haue forced <hi>Vncassianus Assinbuis</hi> otherwise called the great Sophie of <hi>Persia</hi> and Lord of <hi>Armenia</hi> to yeelde obedience vnto vs, and to become our vassale and gouernour hauing made an indissoluble oath vnto vs, after he had first sent his two sonnes vnto vs for Os<g ref="char:EOLhyphen"/>tages. By which agreement, made the last yeare, all the East Countries, and generally all <hi>Asia</hi> are in our qui<g ref="char:EOLhyphen"/>et possession.</p>
+            <p>At which time we receiued courage, and resolued to conquer all <hi>Europe,</hi> and all the countries of Chris<g ref="char:EOLhyphen"/>tendome. Which enterprize the most high and mightie Captaine <hi>Holofernus</hi> our most decre and welbeloued fa<g ref="char:EOLhyphen"/>ther minded with a most singular resolution to haue performed, And to this end we haue already trāsported the halfe of our most valiant forces into <hi>Europe,</hi> which are in number three hundreth thousand men, not rec<g ref="char:EOLhyphen"/>kening thirtie thousand Lansknights or Ganessars and as many other Christians which attend our artillery or<g ref="char:EOLhyphen"/>dinance, and others which are the founders of our ar<g ref="char:EOLhyphen"/>tillerie, and other Instruments of warre, which are of so great a number as the rest, all <hi>Renegados</hi> to fight in de<g ref="char:EOLhyphen"/>fence of our lawe, and with vs to conquer your country
+<pb facs="tcp:18536:5"/> Of these three hundreth thousand soldiers aforesaide, one hundreth and fifty thousand are already passed the <hi>Danubius,</hi> marching dayly forward, to inuade and win the Country of <hi>Hungarie,</hi> and all <hi>Germanie;</hi> and finally to pierce and draw vnto vs the noble countrie of <hi>France</hi> withall the countries adiacent and lying on the Seas. The other hundreth and fiftie thousand soldiours doe besiedge the strong Isle of <hi>Rhodes,</hi> from whence (I sweare by my great Patron <hi>Mahomet</hi>) they shall ne<g ref="char:EOLhyphen"/>uer departe vntill they haue yeelded the Castels; ports and fortresses which are in the saide Isle, for I will con<g ref="char:EOLhyphen"/>straine and force them by famine, and other stratagems to make way vnto me, and to yeelde obeisance vnto me as vnto their true and naturall Lorde. Or it shall cost me fower hundreth thousand men, and the great<g ref="char:EOLhyphen"/>est part of all my riches. For the losse and expences are all one to me, be it soldiers, gould, or siluer, so that I may haue my will, and make them my subiects. Eleuē assaultes haue alreadie been giuen and, I beleeue, there wanteth verie little, to make them yeelde and to knowe our force and puissance, and after the Capti<g ref="char:EOLhyphen"/>uitie thereof the way wilbee made verie easie into <hi>Ita<g ref="char:EOLhyphen"/>lie</hi> and <hi>Spaine,</hi> that at my will and pleasure I may take possession of those Occidentall Countries and Regi<g ref="char:EOLhyphen"/>ons, and to possesse the Castels, &amp; Citties in all places, there to set forth, plant and display the most victorious and triumphant colours of our great Prophet <hi>Maho<g ref="char:EOLhyphen"/>met:</hi> And likewise his most worthie Image on the one side and ours on the other side grauen on all sorts of monies: To the end that out of our superabundance the remotest, and barbarous regions of the Occident may honourably acknowledge the most high Maiestie
+<pb facs="tcp:18536:6"/> like as the rest of the other Regions and partes of the world doe. And which I weare in my coate of Armes both beefore and behinde, and in the colours of my most noble Cauallerie, for a speale note, that by the con<g ref="char:EOLhyphen"/>sent of the whole earth, by the will of the high God of heauen and of the great Prophet <hi>Mahomet,</hi> I am the onely Monarche, and sole Prince vnder heauen in the shape of man, by similitude, and likelihoode according to the celestiall forme and shape.</p>
+            <p>Wherefore to conclude in few wordes I doe coū<g ref="char:EOLhyphen"/>sel, aduertise, and commaund thee, great Priest of Rome, that without resisting heauen or earth, thou wilt re<g ref="char:EOLhyphen"/>ceiue and obey our requestes and commaund, other<g ref="char:EOLhyphen"/>wise wee beeing accompanied with all the Kinges of the earth will come to see and visit thee, and wee will vse thy temples in <hi>Rome</hi> and other gorgious Chur<g ref="char:EOLhyphen"/>ches of Christendome as wee did the Temple of the holie Sophie in <hi>Constantinople,</hi> and the Temple of Saint <hi>Basill</hi> neere to the mount <hi>Sinay;</hi> as also an infinite num<g ref="char:EOLhyphen"/>ber of other Churches which wee haue subiugated to our pleasure.</p>
+            <p>No more at this present, but onely that wee de<g ref="char:EOLhyphen"/>sire answer, or for want of answer, we will vnderstand refusall, or refusing for vengance and Immortall warre.</p>
+            <closer>
+               <dateline>Written from our Imperiall Cittie of <hi>Constantino<g ref="char:EOLhyphen"/>ple</hi>
+                  <date>in the beginning of this moneth of March one thou<g ref="char:EOLhyphen"/>sand six hundreth and six, and the thirde yeere of our Ragne.</date>
+                  <pb facs="tcp:18536:6"/> These present letters giuen to our chiefe King at Armes, to carrie them with safe conduct, and to re<g ref="char:EOLhyphen"/>turne vs an Answere.</dateline>
+               <signed>
+                  <hi>Annet Harioson</hi> Great turke Emperour of the earth and ruler of the Sea.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
